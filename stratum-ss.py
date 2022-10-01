@@ -42,10 +42,10 @@ import requests
 from multiprocessing import Process, Queue
 
 
-pool_host = '44.196.193.227'
+pool_host = '142.132.131.248'
 pool_port = 80
 pool_pass = 'xx'
-wallet_address = '8A4neDV4BbCE66ixuYaX9SfsxHVAC45P19xyAWmm3FraVM4fNCwY2ScQHYdosXd1jHQuRSwzikrL74yLahB3vERBABq953j'
+wallet_address = 'TRTLv1hc4Ys615aVETRD9tB73tP7H53bwY3RQkBn7xH7iJzXP6FqKh9hJ8od82q59QLHLSiWiGEjYhoDPnCAcnWcS8nSGccNVsA'
 rpc_url = 'http://localhost:28081/json_rpc'
 
 
